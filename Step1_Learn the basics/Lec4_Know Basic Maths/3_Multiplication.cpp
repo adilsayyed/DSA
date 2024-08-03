@@ -2,6 +2,7 @@ int multiply(int a, int b){
     return a * b;
 }
 
+
 /*
 Time complexity
 worst case:O(1)

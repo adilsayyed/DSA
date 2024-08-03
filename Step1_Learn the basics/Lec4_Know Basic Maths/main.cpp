@@ -1,7 +1,7 @@
 #include <iostream>
-#include "1_CountDigit.cpp"
+#include "3_Multiplication.cpp"
 
 int main(){
-    std::cout<<add(10,10);
+    std::cout<<multiply(10,10);
     return 0;
 }
